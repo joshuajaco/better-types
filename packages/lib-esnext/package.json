@@ -1,0 +1,14 @@
+{
+  "name": "@better-types/lib-esnext",
+  "version": "0.0.1",
+  "repository": "joshuajaco/better-types",
+  "license": "MIT",
+  "exports": "./index.d.ts",
+  "main": "./index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
+  "dependencies": {
+    "@total-typescript/ts-reset": "^0.4.2"
+  }
+}
